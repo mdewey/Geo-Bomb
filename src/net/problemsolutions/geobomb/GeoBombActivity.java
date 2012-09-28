@@ -29,7 +29,6 @@ public class GeoBombActivity extends Activity {
 	public void setDebugLabelText(String txt)
 	{
         TextView mylocationTextView = (TextView) findViewById(R.id.userLocation);
-		
 		mylocationTextView.setText(txt);
 	}
 	
