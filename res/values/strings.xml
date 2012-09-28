@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, GeoBombActivity!</string>
     <string name="app_name">Geo-Bomb</string>
+    <string name="you_are_here">You Are Here:</string>
 
 </resources>
